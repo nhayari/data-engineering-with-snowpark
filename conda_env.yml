@@ -1,0 +1,10 @@
+name: retail
+channels:
+  - https://repo.anaconda.com/pkgs/snowflake
+  - nodefaults
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+    - snowflake-snowpark-python[pandas]
+    - snowflake-cli-labs
