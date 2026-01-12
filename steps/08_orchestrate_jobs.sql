@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------------
 Hands-On Lab: Data Engineering with Snowpark
 Script:       08_orchestrate_jobs.sql
-Author:       Jeremiah Hansen
+Author:       nour
 Last Updated: 1/9/2023
 -----------------------------------------------------------------------------*/
 

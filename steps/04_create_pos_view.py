@@ -1,7 +1,7 @@
 #------------------------------------------------------------------------------
 # Hands-On Lab: Data Engineering with Snowpark
 # Script:       04_create_order_view.py
-# Author:       Jeremiah Hansen, Caleb Baechtold
+# Author:       nour
 # Last Updated: 1/9/2023
 #------------------------------------------------------------------------------
 

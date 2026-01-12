@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------------
 Hands-On Lab: Data Engineering with Snowpark
 Script:       11_teardown.sql
-Author:       Jeremiah Hansen
+Author:       nour 
 Last Updated: 1/9/2023
 -----------------------------------------------------------------------------*/
 

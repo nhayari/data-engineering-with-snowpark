@@ -1,7 +1,7 @@
 /*-----------------------------------------------------------------------------
 Hands-On Lab: Data Engineering with Snowpark
 Script:       03_load_weather.sql
-Author:       Jeremiah Hansen
+Author:       nour
 Last Updated: 1/9/2023
 -----------------------------------------------------------------------------*/
 
